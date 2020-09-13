@@ -112,12 +112,17 @@ body{
     perspective: 25px;
     box-shadow: 0 3px 10px rgba(255, 255, 255, 0.7);
 }
+#dollarS{
+    color: #6feaf6;
+    font-weight: 800;
+    font-size:35px;
+    padding-left: 5px;
+}
 
 p.text span{  
     color: #6feaf6;
     font-weight: 800;
     font-size:35px;
-    padding: 5px;
 }
 p.text{
     margin: 5px 0;
